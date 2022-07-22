@@ -1,0 +1,64 @@
+/*Google Font: Open Sans*/
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+    font-size: 20pt;
+ }
+
+/*navbar*/
+.navbar{
+    background-color: #00caf5;
+    color: #fff;
+}
+
+.navbar img{
+    width: 44px;
+}
+
+/*Carrusel*/
+.carousel-inner {
+    height: 650px;
+    background-size: cover;
+    background-color: #000;
+}
+
+/* Quiénes-somos // Contenido */
+#Quienes-somos i{
+    color: #00caf5;
+}
+
+#Quienes-somos{
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+
+.card-body {
+    background-color: #00caf5;
+    color: #fff;
+    width: 100%;
+}
+
+/* Destacados // Cards */
+#Destacados {
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+
+/* Contacto // Formulario de contacto */
+#Contacto{
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
+
+/* Footer */
+#Footer{
+    background-color: #000;
+    color: #fff;
+    width: 100%;
+}
